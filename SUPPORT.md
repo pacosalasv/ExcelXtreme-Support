@@ -1,0 +1,55 @@
+# ExcelXtreme — Support
+
+This repository is the public documentation, support, issue-tracking, and feedback surface for **ExcelXtreme 1.0**.
+
+## Start here
+
+| Need | Use |
+|---|---|
+| Setup or workflow question | [GitHub Discussions](https://github.com/pacosalasv/ExcelXtreme-Support/discussions) |
+| Reproducible bug or regression | [GitHub Issues](https://github.com/pacosalasv/ExcelXtreme-Support/issues/new/choose) |
+| Compatibility problem | [GitHub Issues](https://github.com/pacosalasv/ExcelXtreme-Support/issues/new/choose) |
+| Product or workflow feedback | [GitHub Discussions](https://github.com/pacosalasv/ExcelXtreme-Support/discussions) |
+| Documentation problem | [GitHub Issues](https://github.com/pacosalasv/ExcelXtreme-Support/issues/new/choose) |
+
+## What to include in a report
+
+| Information | What to provide |
+|---|---|
+| Product version | `1.0` or the exact version/build you are using |
+| Host | Microsoft Excel plus the exact host/browser/OS version where relevant |
+| Reproduction | Clear steps from a clean or known state |
+| Expected result | What you expected to happen |
+| Actual result | What happened instead |
+| Evidence | Error text, screenshot, console output, or a minimal reproducible example when safe |
+
+## Before opening an issue
+
+Review the README, reproduce the behavior when possible, and check existing Issues/Discussions for the same problem.
+
+## Public information only
+
+Do not post passwords, license keys, private account details, confidential client files, or sensitive system information. If private material appears necessary, describe the problem first and wait for a safe sharing path.
+
+## Release and distribution status
+
+The supplied reference is **ExcelXtreme 1.0**. Installable product files are not mirrored in this support repository.
+
+## Support development
+
+Ko-fi support is optional. Contributions help fund maintenance, compatibility work, documentation, testing, and continued development.
+
+<div align="center">
+  <a href="https://ko-fi.com/pacosalasv">
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
+  </a>
+</div>
+
+## Related links
+
+| Destination | Link |
+|---|---|
+| Product repository | [ExcelXtreme-Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Xtreme Mindset | [Product and experimentation site](https://xtreme-mindset.blogspot.com/) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
