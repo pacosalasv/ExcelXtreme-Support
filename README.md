@@ -4,11 +4,11 @@
 
 # ExcelXtreme
 
-**Ribbon-based Excel productivity tools for formatting, worksheets, calculations, formulas, and workflow utilities**
+**Turn Excel into a faster working environment with a deep Ribbon toolkit for cleanup, formulas, worksheets, flowcharts, protection, layout, and everyday automation.**
 
-![Status](https://img.shields.io/badge/Status-Current%20build-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-00B7FF?style=for-the-badge) ![Host](https://img.shields.io/badge/Host-Microsoft%20Excel-334155?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Current%20Release-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-00B7FF?style=for-the-badge) ![Host](https://img.shields.io/badge/Host-Microsoft%20Excel-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/ExcelXtreme-Support/issues) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Profile-334155?style=for-the-badge)](https://github.com/pacosalasv) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Site-64748B?style=for-the-badge)](https://xtreme-mindset.blogspot.com/)
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/ExcelXtreme-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-64748B?style=for-the-badge)](https://xtrememindset.blogspot.com/) [![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
 
 </div>
 
@@ -16,38 +16,49 @@
 
 ## Overview
 
-ExcelXtreme is an Excel add-in organized around ribbon-based productivity workflows. The supplied v1.0 add-in exposes tools for text formatting, quick actions, rows and columns, worksheet utilities, calculations, unit conversion, file/folder workflows, flowcharts, formula utilities, comments, protection, view/layout controls, zoom, support, and related productivity tasks.
+ExcelXtreme is a productivity layer for Microsoft Excel built around one idea: the best spreadsheet automation is the automation you can reach exactly when you need it. Instead of jumping between helper workbooks, snippets, dialogs, and repetitive manual steps, ExcelXtreme brings a broad collection of high-frequency tools directly into the Ribbon.
+
+It is designed for analysts, PMO and operations teams, finance users, engineers, reporting specialists, consultants, and Excel power users who spend real time cleaning data, reshaping worksheets, maintaining formulas, formatting deliverables, auditing names, preparing flowcharts, or managing large workbooks. The result is less repetitive clicking, less context switching, and a more deliberate way to work inside Excel.
+
+## Key features
+
+- **Text and data cleanup** with case conversion, trimming, symbol insertion, text effects, hyperlink conversion, transpose, randomization, and selection-aware utilities.
+- **Worksheet and workbook operations** for sheet creation, batch renaming, name cleanup, copying/comparison workflows, UsedRange optimization, and large-workbook housekeeping.
+- **Formula and defined-name tools** including lookup conversion, formula inspection, name reporting, invalid-name cleanup, and scope-aware maintenance.
+- **Flowchart tooling inside Excel** with dedicated creation workflows, reusable shapes, connectors, operation categories, and color themes.
+- **Calculation and unit-conversion tools** that reduce one-off helper formulas and repetitive conversion work.
+- **Comment and note workflows** for standardizing, recoloring, exchanging cell/comment content, and maintaining consistent workbook annotations.
+- **Advanced protection and focus tools** for formula locking, workbook-wide sheet protection, outline behavior, active-row/column guidance, and visibility control.
+- **View, layout, object and export utilities** including object alignment, selection tools, zoom controls, Eye Dropper, and PDF export.
+
+## Standout tools and workflows
+
+| Tool / workflow | Why it matters |
+|---|---|
+| **Text Case Toolkit** | Switch selected content between Sentence, lower, UPPER, Proper, camelCase, PascalCase, snake_case, kebab-case and additional styles. |
+| **Selection Tools** | Target formulas, names, comments, notes, blanks, visible cells and other useful workbook subsets quickly. |
+| **Sheet Manager** | Create sheets from a selection, batch rename them, sanitize names and optimize workbook structure. |
+| **Formula Conversion** | Convert VLOOKUP/HLOOKUP/XLOOKUP patterns to alternative lookup structures directly from the Ribbon. |
+| **Defined Names Maintenance** | List, inspect, show/hide, clean invalid names and remove names by range or worksheet scope. |
+| **Flowchart Studio** | Build flowchart worksheets with dedicated shapes, connectors, themes and editing workflows without leaving Excel. |
+| **Google Translate** | Translate selected cells through a language picker for fast multilingual worksheet work. |
+| **Focus Navigation** | Highlight the active row and column to make dense sheets easier to navigate. |
+| **Advanced Protection** | Lock formulas and manage protection across multiple sheets with fewer repetitive steps. |
+| **Eye Dropper + Object Layout** | Pick colors and align workbook objects with fast visual tools. |
 
 ## Product status
 
 | Item | Details |
 |---|---|
-| Status | **Current build** |
+| Status | **Current release** |
 | Version | 1.0 |
 | Product type | Office productivity add-in |
 | Host | Microsoft Excel |
-| Distribution | Installable product files are not mirrored in this support repository. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-## Capabilities
-
-| Capability |
-|---|
-| Text formatting, case conversion, text effects, symbols, and wrap-text workflows. |
-| Quick tools plus column, row, worksheet, and workbook utilities. |
-| Text/data operations, calculations, unit conversion, and file/folder helpers. |
-| UDF formulas, formula utilities, defined-name tools, and outline workflows. |
-| Flowchart insertion and editing tools with shape and color-theme controls. |
-| Comment tools, advanced protection, focus guidance, view/layout controls, zoom, and support commands. |
-| Ribbon integration provided by the supplied Excel add-in. |
+| Best for | Analysis, reporting, workbook maintenance, PMO/operations, power-user workflows |
 
 ## Media
 
-The featured image above is the current public product identity/reference image for this support repository.
-
-## Product reference
-
-This page is based on the supplied **ExcelXtreme 1.0** build/reference files. The installable product is intentionally kept outside this public support repository.
+Additional product screenshots and workflow previews are coming soon.
 
 ## Documentation and support
 
@@ -60,7 +71,7 @@ This page is based on the supplied **ExcelXtreme 1.0** build/reference files. Th
 
 ## Support development
 
-Ko-fi support is optional. Contributions help fund maintenance, compatibility work, documentation, testing, and continued development of practical free tools.
+If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -72,10 +83,12 @@ Ko-fi support is optional. Contributions help fund maintenance, compatibility wo
 
 | Destination | Link |
 |---|---|
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Xtreme Mindset | [Product and experimentation site](https://xtreme-mindset.blogspot.com/) |
+| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
+| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
+| KreaOn | [Applied technology education](https://www.kreaon.com/) |
+| DRH Blender Tools | [Browse Blender tools on BlendKit](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-The installable `.xlam` is not distributed from this support repository. Refer to the product package for applicable terms.
+Licensing and usage terms are provided with the current ExcelXtreme distribution.

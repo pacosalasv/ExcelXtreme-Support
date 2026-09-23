@@ -1,6 +1,6 @@
 {
-  "description": "Documentation and support for ExcelXtreme v1.0, an Excel productivity add-in with ribbon-based workflow tools.",
-  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "description": "Excel productivity toolkit for formatting, formulas, worksheets, flowcharts, protection, defined names, layout, automation and high-speed workbook work.",
+  "homepage": "https://xtrememindset.blogspot.com/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,
