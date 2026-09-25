@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="860" alt="ExcelXtreme featured image" src="docs/media/Featured_Image.png" />
+<img width="860" alt="ExcelXtreme logo" src="docs/media/Logo.png" />
 
 # ExcelXtreme
 
