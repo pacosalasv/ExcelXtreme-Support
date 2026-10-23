@@ -1,0 +1,17 @@
+{
+  "description": "Excel productivity toolkit for formatting, formulas, worksheets, flowcharts, protection, defined names, layout, automation and high-speed workbook work.",
+  "homepage": "https://xtrememindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "excel",
+    "office",
+    "productivity",
+    "vba",
+    "addin",
+    "automation",
+    "workflow",
+    "technical-support"
+  ]
+}
